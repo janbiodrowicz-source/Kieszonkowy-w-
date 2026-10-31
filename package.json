@@ -1,0 +1,17 @@
+{
+  "name": "kieszonkowy-waz",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kieszonkowy Wąż: Snake na ekranie LCD z matrycą punktową, pakowany do APK przez Capacitor",
+  "scripts": {
+    "android:add": "cap add android",
+    "android:sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.2.0",
+    "@capacitor/core": "^7.2.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.2.0"
+  }
+}

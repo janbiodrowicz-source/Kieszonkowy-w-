@@ -1,0 +1,9 @@
+{
+  "appId": "com.janbiodrowicz.kieszonkowywaz",
+  "appName": "Kieszonkowy Wąż",
+  "webDir": "www",
+  "backgroundColor": "#2d3532",
+  "android": {
+    "adjustMarginsForEdgeToEdge": "auto"
+  }
+}
