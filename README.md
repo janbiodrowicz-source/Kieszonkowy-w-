@@ -11,7 +11,7 @@ Snake na kieszonkowej konsolce z ekranem LCD. Wszystko na ekranie, łącznie z n
 
 ## APK
 
-Każdy push na `main` uruchamia akcję **Buduj APK** (`.github/workflows/apk.yml`). Gotowy plik `kieszonkowy-waz.apk` ląduje w zakładce **Releases** (oraz jako artefakt akcji). To build debug, do instalowania bezpośrednio na telefonie.
+Każdy push na `main` uruchamia akcję **Buduj APK** (`.github/workflows/apk.yml`). Gotowy plik `kieszonkowy-waz.apk` ląduje w zakładce **Releases**. To build debug, do instalowania bezpośrednio na telefonie.
 
 ## Struktura
 

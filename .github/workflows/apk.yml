@@ -40,11 +40,6 @@ jobs:
       - name: Nazwa pliku
         run: cp android/app/build/outputs/apk/debug/app-debug.apk kieszonkowy-waz.apk
 
-      - uses: actions/upload-artifact@v4
-        with:
-          name: kieszonkowy-waz-apk
-          path: kieszonkowy-waz.apk
-
       - name: Wydanie z APK
         uses: softprops/action-gh-release@v2
         with:
